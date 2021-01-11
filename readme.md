@@ -4,32 +4,35 @@ This is my github profile where I have uploaded and will upload my projects.
 ## My Code
 
 **- Pure Python**
-- proyecto 1
-- proyecto 2
+
+  * [Project-Game](https://github.com/patri-carrasco/project-game) : This program emulates the game of hangman.
 
 **- Data Cleaning & Data Visualization**
-- proyecto 1
-- proyecto 2
+* [data-cleaning-pandas](https://github.com/patri-carrasco/data-cleaning-pandas) : In this project we clean and visualize data with Pandas to work with our hypothesis.
 
-**- APIs**
-- proyecto 1
-- proyecto 2
+
+**- Scraping**
+* [Project-Data-Pipeline](https://github.com/patri-carrasco/Project-Data-Pipeline) : In this project we want to know the pegi (Pan European Game Information) of the games in order to be able to decide which games that can be played for ages.
 
 **- GeoQueries**
-- proyecto 1
-- proyecto 2
+- [geospatial-data-project](https://github.com/patri-carrasco/geospatial-data-project) : In this project we want to analyze the best location for our company.
 
-**- Natural Language Processing**
-- proyecto 1
-- proyecto 2
+**- APIs**
+- [api-sentiment-project](https://github.com/patri-carrasco/api-sentiment-project) : In this project we are going to analyze feelings of a theoretical chat group of the Friends series, for this we have created an API with the messages that have been sent by the characters of the series.
 
 **- Machine Learning**
-- proyecto 1
-- proyecto 2
+- [diamonds-project](https://github.com/patri-carrasco/diamonds-project) : In this project we are going to do a Kaggle competition, making the best diamond price prediction.
+
+
+**- Natural Language Processing**
+- [Movie_recommender](https://github.com/patri-carrasco/Movie_recommender) : In this final project we are going to make a movie recommender with NPL
+
+
+
 
 **- Forks for studying & learning**
-- proyecto 1
-- proyecto 2
+- [Ironhack-Prework](https://github.com/patri-carrasco/prework-datamad-no-solutions): very first steps. First Python contact.
+- [Ironhack-Labs](https://github.com/patri-carrasco/datamad1020-rev) : Labs performed during the bootcamp
 
 ## **Tech Stack:**
 <img title="Python" height="60" src="./images/python.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 

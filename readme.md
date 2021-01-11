@@ -1,3 +1,6 @@
+
+<img title="data" height="300" src="./images/data.png"> 
+
 # Hello World! Welcome to my Github Profile
 This is my github profile where I have uploaded and will upload my projects.
 

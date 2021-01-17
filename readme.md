@@ -37,6 +37,7 @@ This is my github profile where I have uploaded and will upload my projects.
 - [Ironhack-Prework](https://github.com/patri-carrasco/prework-datamad-no-solutions): very first steps. First Python contact.
 - [Ironhack-Labs](https://github.com/patri-carrasco/datamad1020-rev) : Labs performed during the bootcamp
 - [Data junior course](https://github.com/patri-carrasco/data_junior) : Practicing data
+- [Data-Analysis-with-Python](https://github.com/patri-carrasco/Data-Analysis-with-Python---Full-Course-for-Beginners-Numpy-Pandas-Matplotlib-Seaborn-) Practicing data with Python from freecodecamp.org
 
 ## **Tech Stack:**
 <img title="Python" height="60" src="./images/python.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 

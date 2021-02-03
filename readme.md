@@ -6,6 +6,10 @@ This is my github profile where I have uploaded and will upload my projects.
 
 ## My Code
 
+**- Python Data Science Project**
+
+- [Python Data Science Project](https://github.com/patri-carrasco/data_junior) : This course covers linear regression, machine learning, scraping with python.
+
 **- Pure Python**
 
   * [Project-Game](https://github.com/patri-carrasco/project-game) : This program emulates the game of hangman.
@@ -36,7 +40,7 @@ This is my github profile where I have uploaded and will upload my projects.
 **- Forks for studying & learning**
 - [Ironhack-Prework](https://github.com/patri-carrasco/prework-datamad-no-solutions): very first steps. First Python contact.
 - [Ironhack-Labs](https://github.com/patri-carrasco/datamad1020-rev) : Labs performed during the bootcamp
-- [Data junior course](https://github.com/patri-carrasco/data_junior) : Practicing data
+
 - [Data-Analysis-with-Python](https://github.com/patri-carrasco/Data-Analysis-with-Python---Full-Course-for-Beginners-Numpy-Pandas-Matplotlib-Seaborn-) Practicing data with Python from freecodecamp.org
 
 ## **Tech Stack:**

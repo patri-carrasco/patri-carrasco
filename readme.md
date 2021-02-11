@@ -5,6 +5,9 @@
 This is my github profile where I have uploaded and will upload my projects.
 
 ## My Code
+**- Spark**
+
+- [Spark-Course](https://github.com/patri-carrasco/spark-course) With this course I want to learn big data with spark. &nbsp; <img title="inprogress" height="30" src="./images/inprogress.png">
 
 **- Python Data Science Project**
 

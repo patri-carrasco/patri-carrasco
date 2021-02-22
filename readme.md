@@ -16,7 +16,7 @@ This is my github profile where I have uploaded and will upload my projects.
 
 **- Python Data Science Project**
 
-- [Python Data Science Project](https://github.com/patri-carrasco/data_junior) : This course covers linear regression, machine learning, scraping with python. &nbsp; <img title="inprogress" height="30" src="./images/inprogress.png">
+- [Python Data Science Project](https://github.com/patri-carrasco/data_junior) : This course covers linear regression, machine learning, scraping with python. 
 
 **- Pure Python**
 

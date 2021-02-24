@@ -6,9 +6,13 @@ This is my github profile where I have uploaded and will upload my projects.
 
 ## My Code
 
+**-  Curso DevOps** &nbsp; <img title="inprogress" height="30" src="./images/inprogress.png">
+- [1- Introducción](https://github.com/DevOps-docker-kubernetes/1-Intro) 
+- [2- Docker](https://github.com/DevOps-docker-kubernetes/2-docker) 
+
 **- Spark**
 
-- [Spark-Course](https://github.com/patri-carrasco/spark-course) With this course I want to learn big data with spark. &nbsp; <img title="inprogress" height="30" src="./images/inprogress.png">
+- [Spark-Course](https://github.com/patri-carrasco/spark-course) With this course I want to learn big data with spark. 
 
 **- Mi primera aplciación web**
 

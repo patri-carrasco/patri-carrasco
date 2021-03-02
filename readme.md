@@ -9,6 +9,7 @@ This is my github profile where I have uploaded and will upload my projects.
 **-  Curso DevOps** &nbsp; <img title="inprogress" height="30" src="./images/inprogress.png">
 - [1- Introducción](https://github.com/DevOps-docker-kubernetes/1-Intro) 
 - [2- Docker](https://github.com/DevOps-docker-kubernetes/2-docker) 
+- [3- Docker Compose](https://github.com/DevOps-docker-kubernetes/3-Docker-compose-orquestacion-y-escalado)
 
 **- Spark**
 

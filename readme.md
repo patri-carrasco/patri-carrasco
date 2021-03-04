@@ -18,7 +18,7 @@ This is my github profile where I have uploaded and will upload my projects.
 - [4- Advanced Examples of Spark Programs](https://github.com/Spark-Apache-Udemy/4-Advanced-Examples-of-Spark-Programs)
 - [5- Machine Learning with Spark ML](https://github.com/Spark-Apache-Udemy/5-Machine-Learning-with-Spark-ML)
 
-**- Mi primera aplciación web**
+**- HTML, Java script and CSS**
 
 - [App-web](https://github.com/patri-carrasco/app-web) In this repository I have built my first web application
 
@@ -31,6 +31,7 @@ This is my github profile where I have uploaded and will upload my projects.
   * [Project-Game](https://github.com/patri-carrasco/project-game) : This program emulates the game of hangman.
   - [Dice-stimulator-code](https://github.com/Python-Project-code/Dice-stimulator-code)
   - [Dictionary](https://github.com/Python-Project-code/2-Dictionary)
+  - [Tic tac toe](https://github.com/Python-Project-code/3-Tictactoe)
 
 **- Data Cleaning & Data Visualization**
 * [data-cleaning-pandas](https://github.com/patri-carrasco/data-cleaning-pandas) : In this project we clean and visualize data with Pandas to work with our hypothesis.

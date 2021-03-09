@@ -101,6 +101,8 @@ This is my github profile where I have uploaded and will upload my projects.
 <img title="Git" height="60" src="./images/git.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="Github" height="60" src="./images/github.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img title="Docker" height="60" src="./images/docker.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img title="Jupyter notebook" height="60" src="./images/jupyter.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img title="Zeppelin" height="60" src="./images/zeppelin.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="Linux Basic Comands" height="60" src="./images/terminal.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 <br>

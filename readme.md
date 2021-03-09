@@ -6,6 +6,9 @@ This is my github profile where I have uploaded and will upload my projects.
 
 ## My Code
 
+**- Scala** <img title="inprogress" height="30" src="./images/inprogress.png">
+- [1- Introducción](https://github.com/Scala-intro/1-Intro)
+
 **-  Curso DevOps** &nbsp; <img title="inprogress" height="30" src="./images/inprogress.png">
 - [1- Introducción](https://github.com/DevOps-docker-kubernetes/1-Intro) 
 - [2- Docker](https://github.com/DevOps-docker-kubernetes/2-docker) 
@@ -62,20 +65,52 @@ This is my github profile where I have uploaded and will upload my projects.
 
 - [Data-Analysis-with-Python](https://github.com/patri-carrasco/Data-Analysis-with-Python---Full-Course-for-Beginners-Numpy-Pandas-Matplotlib-Seaborn-) Practicing data with Python from freecodecamp.org
 
-## **Tech Stack:**
+ 
+
+## **Stack:**
+
+### Back end
 <img title="Python" height="60" src="./images/python.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<img title="MySQL" height="60" src="./images/mysql.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<img title="MongoDB" height="60" src="./images/mongodb.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="Flask" height="60" src="./images/flask.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<br>
+
+### Machine Learning
+<img title="TensorFlow" height="60" src="./images/tensorflow.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img title="Spark" height="60" src="./images/spark.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img title="Scala" height="60" src="./images/Scala.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+
+<br>
+
+### Front end
 <img title="HTML 5" height="60" src="./images/html-5.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="CSS 3" height="60" src="./images/css-3.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="JavaScript" height="60" src="./images/javascript.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+<br>
+
+### BBDD
+<img title="MySQL" height="60" src="./images/mysql.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img title="MongoDB" height="60" src="./images/mongodb.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+
+<br>
+
+### Herramientas de desarrollo
 <img title="Visual Studio Code" height="60" src="./images/vsc.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<img title="TensorFlow" height="60" src="./images/tensorflow.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<img title="Linux Basic Comands" height="60" src="./images/terminal.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="Git" height="60" src="./images/git.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<img title="Github" height="60" src="./images/github.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img title="Github" height="60" src="./images/github.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img title="Docker" height="60" src="./images/docker.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img title="Linux Basic Comands" height="60" src="./images/terminal.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+<br>
+
+### Visualización
 <img title="Tableau" height="60" src="./images/tableau.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img title="Power BI" height="60" src="./images/Power-BI.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+
+
 
 ## My Github statistics:
 [![Patri's github stats](https://github-readme-stats.vercel.app/api?username=patri-carrasco)](https://github.com/patri-carrasco/github-readme-stats)

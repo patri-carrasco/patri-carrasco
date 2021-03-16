@@ -11,6 +11,8 @@ This is my github profile where I have uploaded and will upload my projects.
 - [2-  Funciones, variables...](https://github.com/Scala-intro/2-Scala)
 - [3- Ejercicio contar palabras](https://github.com/Scala-intro/3-Contador-de-palabras)
 - [4- Spark Core y SQL](https://github.com/Scala-intro/4-SparkCore-SQL)
+- [5-  Práctica Temperatura](https://github.com/Scala-intro/5-Temp-sensor)
+- [6- Práctica personas](https://github.com/Scala-intro/6-Personas)
 
 **-  Curso DevOps** &nbsp; <img title="inprogress" height="30" src="./images/inprogress.png">
 - [1- Introducción](https://github.com/DevOps-docker-kubernetes/1-Intro) 

@@ -6,7 +6,7 @@ This is my github profile where I have uploaded and will upload my projects.
 
 ## My Code
 
-**- Scala** <img title="inprogress" height="30" src="./images/inprogress.png">
+**- Scala** 
 - [1- Introducción](https://github.com/Scala-intro/1-Intro)
 - [2-  Funciones, variables...](https://github.com/Scala-intro/2-Scala)
 - [3- Ejercicio contar palabras](https://github.com/Scala-intro/3-Contador-de-palabras)

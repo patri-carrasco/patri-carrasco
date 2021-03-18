@@ -13,6 +13,12 @@ This is my github profile where I have uploaded and will upload my projects.
 - [4- Spark Core y SQL](https://github.com/Scala-intro/4-SparkCore-SQL)
 - [5-  Práctica Temperatura](https://github.com/Scala-intro/5-Temp-sensor)
 - [6- Práctica personas](https://github.com/Scala-intro/6-Personas)
+- [7- Práctica Personas API](https://github.com/Scala-intro/7-personas-api)
+- [8- Clientes](https://github.com/Scala-intro/8-clientes)
+- [9- Spark Core y Real Time](https://github.com/Scala-intro/9-SparkCore-RealTime)
+- [10- Practica Streaming](https://github.com/Scala-intro/10-practica-streaming)
+- [11- Practica Streaming + SQL](https://github.com/Scala-intro/11-streaming-sql)
+- [12 Spark  y Machine Learning](https://github.com/Scala-intro/12-Spark-Machine-Learning)
 
 **-  Curso DevOps** &nbsp; <img title="inprogress" height="30" src="./images/inprogress.png">
 - [1- Introducción](https://github.com/DevOps-docker-kubernetes/1-Intro) 

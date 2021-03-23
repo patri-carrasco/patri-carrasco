@@ -63,6 +63,9 @@ This is my github profile where I have uploaded and will upload my projects.
 **- Machine Learning**
 - [diamonds-project](https://github.com/patri-carrasco/diamonds-project) : In this project we are going to do a Kaggle competition, making the best diamond price prediction.
 
+- [Faces detection](https://github.com/Machine-Learning-project-python/faces_detection)
+- [Faces recognition](https://github.com/Machine-Learning-project-python/faces_recognition)
+
 
 **- Natural Language Processing**
 - [Movie_recommender](https://github.com/patri-carrasco/Movie_recommender) : In this final project we are going to make a movie recommender with NPL

@@ -65,6 +65,7 @@ This is my github profile where I have uploaded and will upload my projects.
 
 - [Faces detection](https://github.com/Machine-Learning-project-python/faces_detection)
 - [Faces recognition](https://github.com/Machine-Learning-project-python/faces_recognition)
+- [Face Recognizer through a Model Training](https://github.com/Machine-Learning-project-python/faces_train)
 
 
 **- Natural Language Processing**

@@ -32,6 +32,12 @@ This is my github profile where I have uploaded and will upload my projects.
 - [4- Advanced Examples of Spark Programs](https://github.com/Spark-Apache-Udemy/4-Advanced-Examples-of-Spark-Programs)
 - [5- Machine Learning with Spark ML](https://github.com/Spark-Apache-Udemy/5-Machine-Learning-with-Spark-ML)
 
+**-Opencv**
+- [Basic](https://github.com/OpenCV-course/1-Basic)
+- [Advanced](https://github.com/OpenCV-course/2-Advanced)
+- [Detection faces](https://github.com/OpenCV-course/3-Faces)
+- [Deep Computer Vision: The Simpsons](https://github.com/OpenCV-course/4-Deep-Computer-Vision)
+
 **- HTML, Java script and CSS**
 
 - [App-web](https://github.com/patri-carrasco/app-web) In this repository I have built my first web application

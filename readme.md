@@ -41,34 +41,36 @@ This is my github profile where I have uploaded and will upload my projects.
 
 **- HTML, Java script and CSS**
 
-- [App-web](https://github.com/patri-carrasco/app-web) In this repository I have built my first web application
+- [App-web](https://github.com/patri-carrasco/app-web) In this repository I have built my first web application <img title="ironhack" height="30" src="./images/iron.png">
 
 **- Python Data Science Project**
 
-- [Python Data Science Project](https://github.com/patri-carrasco/data_junior) : This course covers linear regression, machine learning, scraping with python. 
+- [Python Data Science Project](https://github.com/patri-carrasco/data_junior) : This course covers linear regression, machine learning, scraping with python. <img title="ironhack" height="30" src="./images/iron.png">
 
 **- Pure Python**
 
-  * [Project-Game](https://github.com/patri-carrasco/project-game) : This program emulates the game of hangman.
+  * [Project-Game](https://github.com/patri-carrasco/project-game) : This program emulates the game of hangman. <img title="inprogress" height="30" src="./images/iron.png">
   - [Dice-stimulator-code](https://github.com/Python-Project-code/Dice-stimulator-code)
   - [Dictionary](https://github.com/Python-Project-code/2-Dictionary)
   - [Tic tac toe](https://github.com/Python-Project-code/3-Tictactoe)
 
 **- Data Cleaning & Data Visualization**
-* [data-cleaning-pandas](https://github.com/patri-carrasco/data-cleaning-pandas) : In this project we clean and visualize data with Pandas to work with our hypothesis.
+* [data-cleaning-pandas](https://github.com/patri-carrasco/data-cleaning-pandas) : In this project we clean and visualize data with Pandas to work with our hypothesis. <img title="ironhack" height="30" src="./images/iron.png">
+
+- [Text Data Analysis](https://github.com/Data-Analysis-Projects-Udemy/-Project-1--Text-Data-Analysis)
 
 
 **- Scraping**
-* [Project-Data-Pipeline](https://github.com/patri-carrasco/Project-Data-Pipeline) : In this project we want to know the pegi (Pan European Game Information) of the games in order to be able to decide which games that can be played for ages.
+* [Project-Data-Pipeline](https://github.com/patri-carrasco/Project-Data-Pipeline) : In this project we want to know the pegi (Pan European Game Information) of the games in order to be able to decide which games that can be played for ages. <img title="ironhack" height="30" src="./images/iron.png">
 
 **- GeoQueries**
-- [geospatial-data-project](https://github.com/patri-carrasco/geospatial-data-project) : In this project we want to analyze the best location for our company.
+- [geospatial-data-project](https://github.com/patri-carrasco/geospatial-data-project) : In this project we want to analyze the best location for our company. <img title="ironhack" height="30" src="./images/iron.png">
 
 **- APIs**
-- [api-sentiment-project](https://github.com/patri-carrasco/api-sentiment-project) : In this project we are going to analyze feelings of a theoretical chat group of the Friends series, for this we have created an API with the messages that have been sent by the characters of the series.
+- [api-sentiment-project](https://github.com/patri-carrasco/api-sentiment-project) : In this project we are going to analyze feelings of a theoretical chat group of the Friends series, for this we have created an API with the messages that have been sent by the characters of the series. <img title="ironhack" height="30" src="./images/iron.png">
 
 **- Machine Learning**
-- [diamonds-project](https://github.com/patri-carrasco/diamonds-project) : In this project we are going to do a Kaggle competition, making the best diamond price prediction.
+- [diamonds-project](https://github.com/patri-carrasco/diamonds-project) : In this project we are going to do a Kaggle competition, making the best diamond price prediction. <img title="ironhack" height="30" src="./images/iron.png">
 
 - [Faces detection](https://github.com/Machine-Learning-project-python/faces_detection)
 - [Faces recognition](https://github.com/Machine-Learning-project-python/faces_recognition)
@@ -76,7 +78,7 @@ This is my github profile where I have uploaded and will upload my projects.
 
 
 **- Natural Language Processing**
-- [Movie_recommender](https://github.com/patri-carrasco/Movie_recommender) : In this final project we are going to make a movie recommender with NPL
+- [Movie_recommender](https://github.com/patri-carrasco/Movie_recommender) : In this final project we are going to make a movie recommender with NPL <img title="ironhack" height="30" src="./images/iron.png">
 
 
 

@@ -104,6 +104,7 @@
 ## - Machine Learning
 - [diamonds-project](https://github.com/patri-carrasco/diamonds-project) : In this project we are going to do a Kaggle competition, making the best diamond price prediction. <img title="ironhack" height="30" style="margin-bottom: -10px" src="./images/iron.png">
 
+- [Color detection](https://github.com/Machine-Learning-project-python/color-detection)
 - [Faces detection](https://github.com/Machine-Learning-project-python/faces_detection)
 - [Faces recognition](https://github.com/Machine-Learning-project-python/faces_recognition)
 - [Face Recognizer through a Model Training](https://github.com/Machine-Learning-project-python/faces_train)
@@ -142,6 +143,7 @@
 <img title="TensorFlow" height="60" src="./images/tensorflow.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="Spark" height="60" src="./images/spark.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="Scala" height="60" src="./images/Scala.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img title="OpenCV" height="60" src="./images/OpenCV.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 
 <br>

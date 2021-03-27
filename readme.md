@@ -82,6 +82,7 @@
 * [data-cleaning-pandas](https://github.com/patri-carrasco/data-cleaning-pandas) : In this project we clean and visualize data with Pandas to work with our hypothesis. <img title="ironhack" height="30" style="margin-bottom: -10px" src="./images/iron.png">
 
 - [Text Data Analysis](https://github.com/Data-Analysis-Projects-Udemy/-Project-1--Text-Data-Analysis)
+- [Time-Series-Project](https://github.com/Data-Analysis-Projects-Udemy/Project-2-Time-Series-Project)
 
 
 <hr>

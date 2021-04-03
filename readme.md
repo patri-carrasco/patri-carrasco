@@ -83,7 +83,6 @@
 
 - [Text Data Analysis](https://github.com/Data-Analysis-Projects-Udemy/-Project-1--Text-Data-Analysis)
 - [Time Series Project](https://github.com/Data-Analysis-Projects-Udemy/Project-2-Time-Series-Project)
-- [Geospatial Analysis Project](https://github.com/Data-Analysis-Projects-Udemy/Project-3-Geospatial-Analysis-Project)
 - [Sales Data Analysis](https://github.com/Data-Analysis-Projects-Udemy/Project-4-Sales-Data-Analysis)
 - [IPL Data Analysis](https://github.com/Data-Analysis-Projects-Udemy/Project-5-IPL-Data-Analysis-)
 
@@ -98,6 +97,7 @@
 ## - GeoQueries
 - [geospatial-data-project](https://github.com/patri-carrasco/geospatial-data-project) : In this project we want to analyze the best location for our company. <img title="ironhack" height="30" style="margin-bottom: -10px" src="./images/iron.png">
 
+- [Geospatial Analysis Project](https://github.com/Data-Analysis-Projects-Udemy/Project-3-Geospatial-Analysis-Project)
 <hr>
 
 ## - APIs

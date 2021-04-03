@@ -85,6 +85,7 @@
 - [Time Series Project](https://github.com/Data-Analysis-Projects-Udemy/Project-2-Time-Series-Project)
 - [Geospatial Analysis Project](https://github.com/Data-Analysis-Projects-Udemy/Project-3-Geospatial-Analysis-Project)
 - [Sales Data Analysis](https://github.com/Data-Analysis-Projects-Udemy/Project-4-Sales-Data-Analysis)
+- [IPL Data Analysis](https://github.com/Data-Analysis-Projects-Udemy/Project-5-IPL-Data-Analysis-)
 
 
 <hr>

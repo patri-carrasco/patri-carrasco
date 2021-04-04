@@ -112,6 +112,7 @@
 - [Faces detection](https://github.com/Machine-Learning-project-python/faces_detection)
 - [Faces recognition](https://github.com/Machine-Learning-project-python/faces_recognition)
 - [Face Recognizer through a Model Training](https://github.com/Machine-Learning-project-python/faces_train)
+- [Predict Fare of Airlines](https://github.com/Data-Analysis-Projects-Udemy/Project-6-Predict-Fare-of-Airlines-) <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
 
 
 <hr>

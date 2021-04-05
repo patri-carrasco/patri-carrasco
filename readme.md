@@ -92,6 +92,8 @@
 ## - Scraping
 * [Project-Data-Pipeline](https://github.com/patri-carrasco/Project-Data-Pipeline) : In this project we want to know the pegi (Pan European Game Information) of the games in order to be able to decide which games that can be played for ages. <img title="ironhack" height="30" style="margin-bottom: -10px" src="./images/iron.png">
 
+- [Web scraping usando newspaper3k](https://github.com/webscraping-python/newspaper3k)
+
 <hr>
 
 ## - GeoQueries

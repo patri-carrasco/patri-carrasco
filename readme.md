@@ -94,6 +94,7 @@
 
 - [Web scraping usando newspaper3k](https://github.com/webscraping-python/newspaper3k)
 - [BeautifulSoup Course](https://github.com/webscraping-python/BeautifulSoup-Course)
+- [Disney data science](https://github.com/webscraping-python/disney-data-science-tasks) <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
 
 <hr>
 

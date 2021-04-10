@@ -60,6 +60,7 @@
 ## - HTML, Java script and CSS
 
 - [App-web](https://github.com/patri-carrasco/app-web) In this repository I have built my first web application <img title="ironhack" height="30" style="margin-bottom: -10px" src="./images/iron.png">
+- [Mi ejemplo de presentación](https://github.com/patri-carrasco/portfolio)
 
 <hr>
 

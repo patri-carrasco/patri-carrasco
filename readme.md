@@ -123,6 +123,9 @@
 - [Titanic](https://github.com/Machine-Learning-project-python/Titanic)
 - [Iris Species](https://github.com/Machine-Learning-project-python/Iris-species)
 
+### - Scikit-learn <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
+- [1-Intro](https://github.com/Scikit-learn-freecodecamp/1-Intro-scikit-learn)
+
 <hr>
 
 ## - Natural Language Processing

@@ -120,6 +120,7 @@
 - [Predict Fare of Airlines](https://github.com/Data-Analysis-Projects-Udemy/Project-6-Predict-Fare-of-Airlines-) 
 - [Predict Password Strength Natural Language Processing](https://github.com/Data-Analysis-Projects-Udemy/Project-7-Predict-Password-Strength-Natural-Language-Processing)
 - [Predict Stock Prices using Time Series Analysis](https://github.com/Data-Analysis-Projects-Udemy/Project-8-Predict-Stock-Prices-using-Time-Series-Analysis)
+- [Titanic](https://github.com/Machine-Learning-project-python/Titanic)
 
 <hr>
 

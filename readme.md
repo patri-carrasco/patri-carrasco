@@ -54,6 +54,10 @@
 - [Detection faces](https://github.com/OpenCV-course/3-Faces)
 - [Deep Computer Vision: The Simpsons](https://github.com/OpenCV-course/4-Deep-Computer-Vision)
 - [Events Mouse](https://github.com/OpenCV-course/5-EVENT_MOUSE)
+<hr>
+
+## -Streamlit <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
+- [First Web App in Python](https://github.com/Streamlit-library/1-Web-App-in-Python)
 
 <hr>
 

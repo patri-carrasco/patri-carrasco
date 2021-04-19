@@ -168,6 +168,7 @@
 <img title="Spark" height="60" src="./images/spark.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="Scala" height="60" src="./images/Scala.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="OpenCV" height="60" src="./images/OpenCV.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img title="Streamlit" height="60" src="./images/streamlit.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 
 <br>

@@ -58,6 +58,7 @@
 
 ## -Streamlit <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
 - [First Web App in Python](https://github.com/Streamlit-library/1-Web-App-in-Python)
+- [Iris Flower Prediction App](https://github.com/Streamlit-library/2-Iris-Flower-Prediction-App)
 
 <hr>
 

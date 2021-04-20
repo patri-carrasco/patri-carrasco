@@ -59,6 +59,8 @@
 ## -Streamlit <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
 - [First Web App in Python](https://github.com/Streamlit-library/1-Web-App-in-Python)
 - [Iris Flower Prediction App](https://github.com/Streamlit-library/2-Iris-Flower-Prediction-App)
+- [Penguin Classification](https://github.com/Streamlit-library/3-Penguin-Classification-)  
+Deply Heroku : https://penguins-app-web.herokuapp.com/
 
 <hr>
 

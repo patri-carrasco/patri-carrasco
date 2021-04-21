@@ -61,6 +61,8 @@
 - [Iris Flower Prediction App](https://github.com/Streamlit-library/2-Iris-Flower-Prediction-App)
 - [Penguin Classification](https://github.com/Streamlit-library/3-Penguin-Classification-)  
 Deploy Heroku : https://penguins-app-web.herokuapp.com/
+- [Basketball app](https://github.com/Streamlit-library/4-basketball_app)
+- [Boston Housing PricePrediction](https://github.com/Streamlit-library/5-Boston-Housing-Price-Prediction)
 
 <hr>
 

@@ -105,6 +105,7 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
 - [Web scraping usando newspaper3k](https://github.com/webscraping-python/newspaper3k)
 - [BeautifulSoup Course](https://github.com/webscraping-python/BeautifulSoup-Course)
 - [Disney data science](https://github.com/webscraping-python/disney-data-science-tasks)
+- [Covid-19](https://github.com/webscraping-python/COVID-19-Data-Analysis)
 
 <hr>
 

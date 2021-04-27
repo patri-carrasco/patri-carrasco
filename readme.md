@@ -63,6 +63,7 @@
 Deploy Heroku : https://penguins-app-web.herokuapp.com/
 - [Basketball app](https://github.com/Streamlit-library/4-basketball_app)
 - [Boston Housing PricePrediction](https://github.com/Streamlit-library/5-Boston-Housing-Price-Prediction)
+- [DNA Nucleotide Count Web App](https://github.com/Streamlit-library/6-dna-app)
 
 <hr>
 

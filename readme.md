@@ -64,6 +64,7 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
 - [Basketball app](https://github.com/Streamlit-library/4-basketball_app)
 - [Boston Housing PricePrediction](https://github.com/Streamlit-library/5-Boston-Housing-Price-Prediction)
 - [DNA Nucleotide Count Web App](https://github.com/Streamlit-library/6-dna-app)
+- [How to Build a Machine Learning App](https://github.com/Streamlit-library/7-ml-app)
 
 <hr>
 
@@ -71,6 +72,7 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
 
 - [App-web](https://github.com/patri-carrasco/app-web) 
 - [Mi ejemplo de presentación](https://github.com/patri-carrasco/portfolio)
+- [HTML](https://github.com/HTML-CSS-andJAVASCRIPT/1-HTML)
 
 <hr>
 

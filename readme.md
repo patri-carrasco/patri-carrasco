@@ -73,6 +73,8 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
 - [App-web](https://github.com/patri-carrasco/app-web) 
 - [Mi ejemplo de presentación](https://github.com/patri-carrasco/portfolio)
 - [HTML](https://github.com/HTML-CSS-andJAVASCRIPT/1-HTML)
+- [CSS Intro](https://github.com/HTML-CSS-andJAVASCRIPT/2-CSS-Intro)
+- [Fundamentos CSS](https://github.com/HTML-CSS-andJAVASCRIPT/3-CSS-Fundamentos-CSS)
 
 <hr>
 

@@ -145,6 +145,7 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
 
 ## - Natural Language Processing
 - [Movie_recommender](https://github.com/patri-carrasco/Movie_recommender) : In this final project we are going to make a movie recommender with NPL <img title="ironhack" height="30" style="margin-bottom: -10px" src="./images/iron.png">
+[Movie recommender streamlit npl](https://github.com/patri-carrasco/movie-recommender-streamlit-npl)<img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
 
 <hr>
 

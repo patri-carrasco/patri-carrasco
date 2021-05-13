@@ -138,8 +138,11 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
 - [Titanic](https://github.com/Machine-Learning-project-python/Titanic)
 - [Iris Species](https://github.com/Machine-Learning-project-python/Iris-species)
 
-### - Scikit-learn <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
-- [1-Intro](https://github.com/Scikit-learn-freecodecamp/1-Intro-scikit-learn)
+### - Scikit-learn 
+- [1 Intro](https://github.com/Scikit-learn-freecodecamp/1-Intro-scikit-learn)
+- [2 Preprocessing](https://github.com/Scikit-learn-freecodecamp/2-Preprocessing)
+- [3 Metrics](https://github.com/Scikit-learn-freecodecamp/3-Metrics)
+- [4 Meta Estimators](https://github.com/Scikit-learn-freecodecamp/4-meta-estimators)
 
 <hr>
 

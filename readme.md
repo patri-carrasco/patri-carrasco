@@ -42,6 +42,8 @@
 ## - PySpark
 - [1- Basic](https://github.com/pyspark-apache/1-Basic)
 - [2- PySpark DataFrames ](https://github.com/pyspark-apache/2-PySpark-DataFrames)
+- [3- Pyspark Dataframe: Handling Missing Values](https://github.com/pyspark-apache/3-Pyspark-Dataframe-Handling-Missing-Values)
+- [4 Pyspark Dataframes Filter operation](https://github.com/pyspark-apache/4-Pyspark-Dataframes-Filter-operation)
 
 <hr>
 

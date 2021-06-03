@@ -44,6 +44,8 @@
 - [2- PySpark DataFrames ](https://github.com/pyspark-apache/2-PySpark-DataFrames)
 - [3- Pyspark Dataframe: Handling Missing Values](https://github.com/pyspark-apache/3-Pyspark-Dataframe-Handling-Missing-Values)
 - [4 Pyspark Dataframes Filter operation](https://github.com/pyspark-apache/4-Pyspark-Dataframes-Filter-operation)
+- [5- GroupBy And Aggregate Functions](https://github.com/pyspark-apache/5-GroupBy-Aggregate-Functions)
+- [6- Example Pyspark ML](https://github.com/pyspark-apache/6-Example-Pyspark-ML)
 
 <hr>
 

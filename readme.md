@@ -46,6 +46,7 @@
 - [4 Pyspark Dataframes Filter operation](https://github.com/pyspark-apache/4-Pyspark-Dataframes-Filter-operation)
 - [5- GroupBy And Aggregate Functions](https://github.com/pyspark-apache/5-GroupBy-Aggregate-Functions)
 - [6- Example Pyspark ML](https://github.com/pyspark-apache/6-Example-Pyspark-ML)
+- [7 Linear Regression](https://github.com/pyspark-apache/7-Linear-Regression)
 
 <hr>
 

@@ -101,6 +101,7 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
   - [Dice-stimulator-code](https://github.com/Python-Project-code/Dice-stimulator-code)
   - [Dictionary](https://github.com/Python-Project-code/2-Dictionary)
   - [Tic tac toe](https://github.com/Python-Project-code/3-Tictactoe)
+  - [Pytest](https://github.com/Python-Project-code/pytest_freecodecamp)
 
 <hr>
 

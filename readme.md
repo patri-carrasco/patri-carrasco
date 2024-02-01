@@ -29,6 +29,8 @@
     - [5- Data Quality ](https://github.com/DE-AWS/5-Data-Quality)
     - [5-1 Project Data Pipelines ](https://github.com/DE-AWS/5-1-Project-Data-Pipelines)
   
+   - Cloud Developer <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
+     - [1- Cloud Fundamentals](https://github.com/Cloud-developer-aws/1-cloud-fundamentals)
 
 ## - Scala 
 - [1- Introducción](https://github.com/Scala-intro/1-Intro)

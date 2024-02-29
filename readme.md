@@ -31,6 +31,10 @@
   
    - Cloud Developer <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
      - [1- Cloud Fundamentals](https://github.com/Cloud-developer-aws/1-cloud-fundamentals)
+        - [1-1- Project: Deploy Static Website AWS](https://github.com/Cloud-developer-aws/1-1-Project-Deploy-Static-Website-AWS)
+     - [2- Full Stack Apps on AWS](https://github.com/Cloud-developer-aws/2-Full-Stack-Apps-on-AWS) 
+        - [2-2- Project: Image Processing Mircoservice AWS ](https://github.com/Cloud-developer-aws/2-2-Project-Image-Processing-Mircoservice-AWS-)
+     - [3- Monolith Microservices Scale](https://github.com/Cloud-developer-aws/3-Monolith-Microservices-Scale)
 
 ## - Scala 
 - [1- Introducción](https://github.com/Scala-intro/1-Intro)

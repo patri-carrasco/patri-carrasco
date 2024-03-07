@@ -35,6 +35,7 @@
      - [2- Full Stack Apps on AWS](https://github.com/Cloud-developer-aws/2-Full-Stack-Apps-on-AWS) 
         - [2-2- Project: Image Processing Mircoservice AWS ](https://github.com/Cloud-developer-aws/2-2-Project-Image-Processing-Mircoservice-AWS-)
      - [3- Monolith Microservices Scale](https://github.com/Cloud-developer-aws/3-Monolith-Microservices-Scale)
+        -[3-3 Project Monolith to microservices](https://github.com/patri-carrasco/3-3-Project-Monolith-to-microservices)  
 
 ## - Scala 
 - [1- Introducción](https://github.com/Scala-intro/1-Intro)
@@ -257,7 +258,8 @@ Deploy Heroku : https://movie-recommender-npl.herokuapp.com/
 <img title="Jupyter notebook" height="60" src="./images/jupyter.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="Zeppelin" height="60" src="./images/zeppelin.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="Linux Basic Comands" height="60" src="./images/terminal.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
+<img title="Travis Ci" height="60" src="./images/travis-ci.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img title="Kubernetes" height="60" src="./images/kubernetes.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <br>
 
 ## Visualización

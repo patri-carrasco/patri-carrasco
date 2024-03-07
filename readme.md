@@ -26,8 +26,8 @@
     - [3- Spark Data Lakes ](https://github.com/DE-AWS/3-Spark-Data-Lakes)
       - [3-1- Project Spark Data Lakes](https://github.com/DE-AWS/3-1-Project-Spark-Data-Lakes)
     - [4- Automate Data Pipelines ](https://github.com/DE-AWS/4-Automate-Data-Pipelines)
-    - [5- Data Quality ](https://github.com/DE-AWS/5-Data-Quality)
-    - [5-1 Project Data Pipelines ](https://github.com/DE-AWS/5-1-Project-Data-Pipelines)
+      - [Data Quality ](https://github.com/DE-AWS/5-Data-Quality)
+        - [4-4 Project Data Pipelines ](https://github.com/DE-AWS/5-1-Project-Data-Pipelines)
   
    - Cloud Developer <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
      - [1- Cloud Fundamentals](https://github.com/Cloud-developer-aws/1-cloud-fundamentals)

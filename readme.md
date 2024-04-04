@@ -29,7 +29,7 @@
       - [Data Quality ](https://github.com/DE-AWS/5-Data-Quality)
         - [4-4 Project Data Pipelines ](https://github.com/DE-AWS/5-1-Project-Data-Pipelines)
   
-   - Cloud Developer <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
+   - Cloud Developer 
      - [1- Cloud Fundamentals](https://github.com/Cloud-developer-aws/1-cloud-fundamentals)
         - [1-1- Project: Deploy Static Website AWS](https://github.com/Cloud-developer-aws/1-1-Project-Deploy-Static-Website-AWS)
      - [2- Full Stack Apps on AWS](https://github.com/Cloud-developer-aws/2-Full-Stack-Apps-on-AWS) 

@@ -35,7 +35,9 @@
      - [2- Full Stack Apps on AWS](https://github.com/Cloud-developer-aws/2-Full-Stack-Apps-on-AWS) 
         - [2-2- Project: Image Processing Mircoservice AWS ](https://github.com/Cloud-developer-aws/2-2-Project-Image-Processing-Mircoservice-AWS-)
      - [3- Monolith Microservices Scale](https://github.com/Cloud-developer-aws/3-Monolith-Microservices-Scale)
-        - [3-3 Project Monolith to microservices](https://github.com/patri-carrasco/3-3-Project-Monolith-to-microservices)  
+        - [3-3 Project Monolith to microservices](https://github.com/patri-carrasco/3-3-Project-Monolith-to-microservices) 
+    - [4 Develop Deploy Serverless Apps](https://github.com/Cloud-developer-aws/4-Develop-Deploy-Serverless-Apps) 
+      - [4-4- Project Deploy Application with AWS Lambda](https://github.com/patri-carrasco/4-4-Project-Deploy-Application-with-AWS-Lambda)
 
 ## - Scala 
 - [1- Introducción](https://github.com/Scala-intro/1-Intro)

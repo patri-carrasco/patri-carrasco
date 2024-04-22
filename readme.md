@@ -184,6 +184,10 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
 - [Predict Stock Prices using Time Series Analysis](https://github.com/Data-Analysis-Projects-Udemy/Project-8-Predict-Stock-Prices-using-Time-Series-Analysis)
 - [Titanic](https://github.com/Machine-Learning-project-python/Titanic)
 - [Iris Species](https://github.com/Machine-Learning-project-python/Iris-species)
+- NLP Natural Language Processing
+  - [1- Sistema de Clasificacion de Textos](https://github.com/NLP-Natural-Language-Processing/1-Sistema-Clasificacion-Textos)
+  - [2- Analisis de Sentimientos](https://github.com/NLP-Natural-Language-Processing/2-Analisis-Sentimientos)
+  - [3- Ejercicio: Tweets | NLP Cosine Similarity | TF-IDF](https://github.com/NLP-Natural-Language-Processing/3-Cosine_Similarity_TF_IDF)
 
 ### - Scikit-learn 
 - [1 Intro](https://github.com/Scikit-learn-freecodecamp/1-Intro-scikit-learn)

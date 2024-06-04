@@ -148,6 +148,18 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
 - [Sales Data Analysis](https://github.com/Data-Analysis-Projects-Udemy/Project-4-Sales-Data-Analysis)
 - [IPL Data Analysis](https://github.com/Data-Analysis-Projects-Udemy/Project-5-IPL-Data-Analysis-)
 
+<hr>
+
+## - BBDD
+- Snowflake
+  - [1. Introducción ](https://github.com/snowflake-course/1-Introduccion)
+  - [2. Carga de datos](https://github.com/snowflake-course/2-Carga-de-Datos)
+  - [3. Carga de datos no estructurados](https://github.com/snowflake-course/3-datos-no-estructurados)
+  - [4. Carga de datos desde cloud ](https://github.com/snowflake-course/4-Carga-de-datos-desde-cloud)
+  - [5. Snowpipe ](https://github.com/snowflake-course/5-Snowpipe)
+  - [6. Ciclo de vida](https://github.com/snowflake-course/6-Ciclo-de-vida-comparticion)
+  - [7. Creación de tareas y streams](https://github.com/snowflake-course/7-Creacio-n-de-tareas-y-streams)
+  - [8. Gestion de accesos](https://github.com/snowflake-course/8-Gestion-de-accesos)
 
 <hr>
 
@@ -252,6 +264,7 @@ Deploy Heroku : https://movie-recommender-npl.herokuapp.com/
 ## BBDD
 <img title="MySQL" height="60" src="./images/mysql.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="MongoDB" height="60" src="./images/mongodb.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img title="Snowflake" height="60" src="./images/snowflake.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 
 <br>

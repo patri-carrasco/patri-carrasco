@@ -40,18 +40,23 @@
         - [4-4- Project Deploy Application with AWS Lambda](https://github.com/patri-carrasco/4-4-Project-Deploy-Application-with-AWS-Lambda)
    
 ## - Scala 
-- [1- Introducción](https://github.com/Scala-intro/1-Intro)
-- [2-  Funciones, variables...](https://github.com/Scala-intro/2-Scala)
-- [3- Ejercicio contar palabras](https://github.com/Scala-intro/3-Contador-de-palabras)
-- [4- Spark Core y SQL](https://github.com/Scala-intro/4-SparkCore-SQL)
-- [5-  Práctica Temperatura](https://github.com/Scala-intro/5-Temp-sensor)
-- [6- Práctica personas](https://github.com/Scala-intro/6-Personas)
-- [7- Práctica Personas API](https://github.com/Scala-intro/7-personas-api)
-- [8- Clientes](https://github.com/Scala-intro/8-clientes)
-- [9- Spark Core y Real Time](https://github.com/Scala-intro/9-SparkCore-RealTime)
-- [10- Practica Streaming](https://github.com/Scala-intro/10-practica-streaming)
-- [11- Practica Streaming + SQL](https://github.com/Scala-intro/11-streaming-sql)
-- [12 Spark  y Machine Learning](https://github.com/Scala-intro/12-Spark-Machine-Learning)
+- Keepcoding
+  - [1- Introducción](https://github.com/Scala-intro/1-Intro)
+  - [2-  Funciones, variables...](https://github.com/Scala-intro/2-Scala)
+  - [3- Ejercicio contar palabras](https://github.com/Scala-intro/3-Contador-de-palabras)
+  - [4- Spark Core y SQL](https://github.com/Scala-intro/4-SparkCore-SQL)
+  - [5-  Práctica Temperatura](https://github.com/Scala-intro/5-Temp-sensor)
+  - [6- Práctica personas](https://github.com/Scala-intro/6-Personas)
+  - [7- Práctica Personas API](https://github.com/Scala-intro/7-personas-api)
+  - [8- Clientes](https://github.com/Scala-intro/8-clientes)
+  - [9- Spark Core y Real Time](https://github.com/Scala-intro/9-SparkCore-RealTime)
+  - [10- Practica Streaming](https://github.com/Scala-intro/10-practica-streaming)
+  - [11- Practica Streaming + SQL](https://github.com/Scala-intro/11-streaming-sql)
+  - [12 Spark  y Machine Learning](https://github.com/Scala-intro/12-Spark-Machine-Learning)
+
+- Scala desde cero  <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
+  - [1- Introducción](https://github.com/scala-desde-cero/1-Intro)
+  - [2- Conocer Scala](https://github.com/scala-desde-cero/2-conocer-scala)
 
 <hr>
 

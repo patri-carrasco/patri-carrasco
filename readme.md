@@ -39,6 +39,10 @@
       - [4- Develop Deploy Serverless Apps](https://github.com/Cloud-developer-aws/4-Develop-Deploy-Serverless-Apps) 
         - [4-4- Project Deploy Application with AWS Lambda](https://github.com/patri-carrasco/4-4-Project-Deploy-Application-with-AWS-Lambda)
    
+
+## Projects <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
+  - [Weather Project](https://github.com/projects-data-engineer/weather-projects)
+
 ## - Scala 
 - Keepcoding
   - [1- Introducción](https://github.com/Scala-intro/1-Intro)
@@ -54,7 +58,7 @@
   - [11- Practica Streaming + SQL](https://github.com/Scala-intro/11-streaming-sql)
   - [12 Spark  y Machine Learning](https://github.com/Scala-intro/12-Spark-Machine-Learning)
 
-- Scala desde cero  <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
+- Scala desde cero  
   - [1- Introducción](https://github.com/scala-desde-cero/1-Intro)
   - [2- Conocer Scala](https://github.com/scala-desde-cero/2-conocer-scala)
   - [3- Colecciones](https://github.com/scala-desde-cero/3-colecciones)

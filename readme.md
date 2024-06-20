@@ -57,6 +57,13 @@
 - Scala desde cero  <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
   - [1- Introducción](https://github.com/scala-desde-cero/1-Intro)
   - [2- Conocer Scala](https://github.com/scala-desde-cero/2-conocer-scala)
+  - [3- Colecciones](https://github.com/scala-desde-cero/3-colecciones)
+  - [4- Funciones y métodos](https://github.com/scala-desde-cero/4-funciones-metodos)
+  - [5- Mi primera aplicación](https://github.com/scala-desde-cero/5-primera-aplicacion-)
+  - [6- Clases y objetos](https://github.com/scala-desde-cero/6-clases-objetos)
+  - [7- Programación funcional](https://github.com/scala-desde-cero/7-programacion-funcional)
+  - [8- Otras características ](https://github.com/scala-desde-cero/8-otras-caracteristicas)
+  - [9- Ficheros ](https://github.com/scala-desde-cero/9-ficheros)
 
 <hr>
 

@@ -40,7 +40,7 @@
         - [4-4- Project Deploy Application with AWS Lambda](https://github.com/patri-carrasco/4-4-Project-Deploy-Application-with-AWS-Lambda)
    
 
-## Projects <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
+## Projects 
   - [Weather Project](https://github.com/projects-data-engineer/weather-projects)
 
 ## - Scala 
@@ -108,6 +108,12 @@
 - [4- Advanced Examples of Spark Programs](https://github.com/Spark-Apache-Udemy/4-Advanced-Examples-of-Spark-Programs)
 - [5- Machine Learning with Spark ML](https://github.com/Spark-Apache-Udemy/5-Machine-Learning-with-Spark-ML)
 
+<hr>
+
+## - Terraform 
+- Terraform: De principiante a certificado 2024  <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
+
+    - [1- Intro](https://github.com/terraform-principiantes-certificado/1-Intro)
 <hr>
 
 ## -Opencv

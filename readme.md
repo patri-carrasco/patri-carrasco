@@ -69,12 +69,6 @@
   - [8- Otras características ](https://github.com/scala-desde-cero/8-otras-caracteristicas)
   - [9- Ficheros ](https://github.com/scala-desde-cero/9-ficheros)
 
-<hr>
-
-## -  Curso DevOps &nbsp; <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
-- [1- Introducción](https://github.com/DevOps-docker-kubernetes/1-Intro) 
-- [2- Docker](https://github.com/DevOps-docker-kubernetes/2-docker) 
-- [3- Docker Compose](https://github.com/DevOps-docker-kubernetes/3-Docker-compose-orquestacion-y-escalado)
 
 <hr>
 
@@ -114,6 +108,7 @@
 - Terraform: De principiante a certificado 2024  <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
 
     - [1- Intro](https://github.com/terraform-principiantes-certificado/1-Intro)
+    
 <hr>
 
 ## -Opencv
@@ -143,6 +138,13 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
 - [HTML](https://github.com/HTML-CSS-andJAVASCRIPT/1-HTML)
 - [CSS Intro](https://github.com/HTML-CSS-andJAVASCRIPT/2-CSS-Intro)
 - [Fundamentos CSS](https://github.com/HTML-CSS-andJAVASCRIPT/3-CSS-Fundamentos-CSS)
+
+<hr>
+
+## -  Curso DevOps &nbsp; <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
+- [1- Introducción](https://github.com/DevOps-docker-kubernetes/1-Intro) 
+- [2- Docker](https://github.com/DevOps-docker-kubernetes/2-docker) 
+- [3- Docker Compose](https://github.com/DevOps-docker-kubernetes/3-Docker-compose-orquestacion-y-escalado)
 
 <hr>
 

@@ -38,12 +38,18 @@
         - [3-3 Project Monolith to microservices](https://github.com/patri-carrasco/3-3-Project-Monolith-to-microservices) 
       - [4- Develop Deploy Serverless Apps](https://github.com/Cloud-developer-aws/4-Develop-Deploy-Serverless-Apps) 
         - [4-4- Project Deploy Application with AWS Lambda](https://github.com/patri-carrasco/4-4-Project-Deploy-Application-with-AWS-Lambda)
-   
+<hr>
+
+## First step in Mac   <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
+- [Firs step in Mac](https://github.com/patri-carrasco/primeros-pasos-mac)
+<hr>
 
 ## Projects 
   - [Weather Project](https://github.com/projects-data-engineer/weather-projects)
 
-## - Scala 
+<hr>
+
+## Scala 
 - Keepcoding
   - [1- Introducción](https://github.com/Scala-intro/1-Intro)
   - [2-  Funciones, variables...](https://github.com/Scala-intro/2-Scala)
@@ -72,7 +78,7 @@
 
 <hr>
 
-## - PySpark
+## PySpark
 - [1- Basic](https://github.com/pyspark-apache/1-Basic)
 - [2- PySpark DataFrames ](https://github.com/pyspark-apache/2-PySpark-DataFrames)
 - [3- Pyspark Dataframe: Handling Missing Values](https://github.com/pyspark-apache/3-Pyspark-Dataframe-Handling-Missing-Values)
@@ -95,7 +101,7 @@
 
 <hr>
 
-## - Spark
+## Spark
 - [1- Intro](https://github.com/Spark-Apache-Udemy/1-Intro)
 - [2- Spark Basics and the RDD Interface](https://github.com/Spark-Apache-Udemy/2-Spark-basic-RDD)
 - [3- SparkSQL DataFrames and DataSets](https://github.com/Spark-Apache-Udemy/3-SparkSQL-DataFrames-and-DataSets)
@@ -104,14 +110,14 @@
 
 <hr>
 
-## - Terraform 
+## Terraform 
 - Terraform: De principiante a certificado 2024  <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
 
     - [1- Intro](https://github.com/terraform-principiantes-certificado/1-Intro)
     
 <hr>
 
-## -Opencv
+## Opencv
 - [Basic](https://github.com/OpenCV-course/1-Basic)
 - [Advanced](https://github.com/OpenCV-course/2-Advanced)
 - [Detection faces](https://github.com/OpenCV-course/3-Faces)
@@ -119,7 +125,7 @@
 - [Events Mouse](https://github.com/OpenCV-course/5-EVENT_MOUSE)
 <hr>
 
-## -Streamlit <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
+## Streamlit <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
 - [First Web App in Python](https://github.com/Streamlit-library/1-Web-App-in-Python)
 - [Iris Flower Prediction App](https://github.com/Streamlit-library/2-Iris-Flower-Prediction-App)
 - [Penguin Classification](https://github.com/Streamlit-library/3-Penguin-Classification-)  
@@ -131,7 +137,7 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
 
 <hr>
 
-## - HTML, Java script and CSS
+## HTML, Java script and CSS
 
 - [App-web](https://github.com/patri-carrasco/app-web) 
 - [Mi ejemplo de presentación](https://github.com/patri-carrasco/portfolio)
@@ -141,20 +147,20 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
 
 <hr>
 
-## -  Curso DevOps &nbsp; <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
+## Curso DevOps &nbsp; <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
 - [1- Introducción](https://github.com/DevOps-docker-kubernetes/1-Intro) 
 - [2- Docker](https://github.com/DevOps-docker-kubernetes/2-docker) 
 - [3- Docker Compose](https://github.com/DevOps-docker-kubernetes/3-Docker-compose-orquestacion-y-escalado)
 
 <hr>
 
-## - Python Data Science Project
+## Python Data Science Project
 
 - [Python Data Science Project](https://github.com/patri-carrasco/data_junior) : This course covers linear regression, machine learning, scraping with python. <img title="ironhack" height="30" style="margin-bottom: -10px" src="./images/iron.png">
 
 <hr>
 
-## - Pure Python
+## Pure Python
 
   * [Project-Game](https://github.com/patri-carrasco/project-game) : This program emulates the game of hangman. <img title="ironhack" height="30" style="margin-bottom: -10px" src="./images/iron.png">
   - [Dice-stimulator-code](https://github.com/Python-Project-code/Dice-stimulator-code)
@@ -164,7 +170,7 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
 
 <hr>
 
-## - Data Cleaning & Data Visualization
+## Data Cleaning & Data Visualization
 * [data-cleaning-pandas](https://github.com/patri-carrasco/data-cleaning-pandas) : In this project we clean and visualize data with Pandas to work with our hypothesis. <img title="ironhack" height="30" style="margin-bottom: -10px" src="./images/iron.png">
 
 - [Text Data Analysis](https://github.com/Data-Analysis-Projects-Udemy/-Project-1--Text-Data-Analysis)
@@ -174,7 +180,7 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
 
 <hr>
 
-## - BBDD
+## BBDD
 - Snowflake
   - [1. Introducción ](https://github.com/snowflake-course/1-Introduccion)
   - [2. Carga de datos](https://github.com/snowflake-course/2-Carga-de-Datos)
@@ -187,7 +193,7 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
 
 <hr>
 
-## - Scraping
+## Scraping
 * [Project-Data-Pipeline](https://github.com/patri-carrasco/Project-Data-Pipeline) : In this project we want to know the pegi (Pan European Game Information) of the games in order to be able to decide which games that can be played for ages. <img title="ironhack" height="30" style="margin-bottom: -10px" src="./images/iron.png">
 
 - [Web scraping usando newspaper3k](https://github.com/webscraping-python/newspaper3k)
@@ -197,18 +203,18 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
 
 <hr>
 
-## - GeoQueries
+## GeoQueries
 - [geospatial-data-project](https://github.com/patri-carrasco/geospatial-data-project) : In this project we want to analyze the best location for our company. <img title="ironhack" height="30" style="margin-bottom: -10px" src="./images/iron.png">
 
 - [Geospatial Analysis Project](https://github.com/Data-Analysis-Projects-Udemy/Project-3-Geospatial-Analysis-Project)
 <hr>
 
-## - APIs
+## APIs
 - [api-sentiment-project](https://github.com/patri-carrasco/api-sentiment-project) : In this project we are going to analyze feelings of a theoretical chat group of the Friends series, for this we have created an API with the messages that have been sent by the characters of the series. <img title="ironhack" height="30" style="margin-bottom: -10px" src="./images/iron.png">
 
 <hr>
 
-## - Machine Learning
+## Machine Learning
 - [diamonds-project](https://github.com/patri-carrasco/diamonds-project) : In this project we are going to do a Kaggle competition, making the best diamond price prediction. <img title="ironhack" height="30" style="margin-bottom: -10px" src="./images/iron.png">
 
 - [Color detection](https://github.com/Machine-Learning-project-python/color-detection)
@@ -225,7 +231,7 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
   - [2- Analisis de Sentimientos](https://github.com/NLP-Natural-Language-Processing/2-Analisis-Sentimientos)
   - [3- Ejercicio: Tweets | NLP Cosine Similarity | TF-IDF](https://github.com/NLP-Natural-Language-Processing/3-Cosine_Similarity_TF_IDF)
 
-### - Scikit-learn 
+### Scikit-learn 
 - [1 Intro](https://github.com/Scikit-learn-freecodecamp/1-Intro-scikit-learn)
 - [2 Preprocessing](https://github.com/Scikit-learn-freecodecamp/2-Preprocessing)
 - [3 Metrics](https://github.com/Scikit-learn-freecodecamp/3-Metrics)
@@ -233,7 +239,7 @@ Deploy Heroku : https://penguins-app-web.herokuapp.com/
 
 <hr>
 
-## - Natural Language Processing
+## Natural Language Processing
 - [Movie_recommender](https://github.com/patri-carrasco/Movie_recommender) : In this final project we are going to make a movie recommender with NPL <img title="ironhack" height="30" style="margin-bottom: -10px" src="./images/iron.png">
 
 - [Movie recommender streamlit npl](https://github.com/patri-carrasco/movie-recommender-streamlit-npl)
@@ -241,14 +247,14 @@ Deploy Heroku : https://movie-recommender-npl.herokuapp.com/
 
 <hr>
 
-## - Bootstrap <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
+## Bootstrap <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
 - [1-Intro](https://github.com/Bootstrap-4-course/1-Intro)
 
 
 
 <hr>
 
-## - Forks for studying & learning
+## Forks for studying & learning
 - [Ironhack-Prework](https://github.com/patri-carrasco/prework-datamad-no-solutions): very first steps. First Python contact.
 - [Ironhack-Labs](https://github.com/patri-carrasco/datamad1020-rev) : Labs performed during the bootcamp
 

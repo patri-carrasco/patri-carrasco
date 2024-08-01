@@ -17,7 +17,7 @@
 # My Code
 
 
-## - Udacity
+## Udacity
 
   - Data Engineering with AWS
     - [1- Data Modeling](https://github.com/DE-AWS/1-Data-Modeling)

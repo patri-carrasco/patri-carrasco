@@ -111,9 +111,10 @@
 <hr>
 
 ## Terraform 
-- Terraform: De principiante a certificado 2024  <img title="inprogress" style="margin-bottom: -10px" height="30" src="./images/inprogress.png">
+- Terraform: De principiante a certificado 2024
 
     - [1- Intro](https://github.com/terraform-principiantes-certificado/1-Intro)
+    - [2- Sección Principal](https://github.com/terraform-principiantes-certificado/2-Seccion-Principal)
     
 <hr>
 

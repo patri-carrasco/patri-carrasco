@@ -46,6 +46,7 @@
 
 ## Projects 
   - [Weather Project](https://github.com/projects-data-engineer/weather-projects)
+  - [Happines Country](https://github.com/projects-data-engineer/happyCountries)
 
 <hr>
 

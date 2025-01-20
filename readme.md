@@ -45,8 +45,12 @@
 <hr>
 
 ## Projects 
+### **AWS**
   - [Weather Project](https://github.com/projects-data-engineer/weather-projects)
+
+### **Pyspark**
   - [Happines Country](https://github.com/projects-data-engineer/happyCountries)
+  - [Spotify](https://github.com/projects-data-engineer/spotify-pyspark)
 
 <hr>
 
